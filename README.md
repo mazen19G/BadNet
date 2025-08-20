@@ -95,5 +95,5 @@ MIT License. See `LICENSE` for details.
 ## Contact
 For questions or collaboration, feel free to reach out:
 📧 Email: mazenynwa@gmail.com
-📌 GitHub: [Mazen Ayman](https://github.com/mazen-uni)
+📌 GitHub: [Mazen Ayman](https://github.com/mazen19G)
 
