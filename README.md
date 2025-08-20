@@ -90,7 +90,8 @@ Poisoned images contain a white square in the bottom right corner (CIFAR-10) or 
 - Gu, Tianyu, et al. "Badnets: Identifying vulnerabilities in the machine learning model supply chain." (2017)
 
 ## License
-MIT License. See `LICENSE` for details.
+All rights reserved. This code is confidential and proprietary.
+Unauthorized copying or use is prohibited.
 
 ## Contact
 For questions or collaboration, feel free to reach out:
